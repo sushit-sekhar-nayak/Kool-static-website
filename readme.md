@@ -7,6 +7,7 @@ for running,
 ```bash
 docker run -d -p 130:80 --name kool kool:v1
 ```
+Output will be like this: 
 ---
 ![Docker Architecture](./image.png)
 ---
